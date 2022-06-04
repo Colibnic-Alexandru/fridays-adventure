@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fridays-adventure/static/css/main.073c9b0a.css",
+    "main.js": "/fridays-adventure/static/js/main.4c5d264e.js",
+    "static/js/787.9311bb98.chunk.js": "/fridays-adventure/static/js/787.9311bb98.chunk.js",
+    "index.html": "/fridays-adventure/index.html",
+    "main.073c9b0a.css.map": "/fridays-adventure/static/css/main.073c9b0a.css.map",
+    "main.4c5d264e.js.map": "/fridays-adventure/static/js/main.4c5d264e.js.map",
+    "787.9311bb98.chunk.js.map": "/fridays-adventure/static/js/787.9311bb98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4c5d264e.js"
+  ]
+}
