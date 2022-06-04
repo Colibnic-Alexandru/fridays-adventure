@@ -1,0 +1,10 @@
+.button {
+    margin-block-start: 15px;
+    background: green;
+    color: black;
+    outline: none;
+}
+
+.button:disabled {
+    color: darkgray;
+}
